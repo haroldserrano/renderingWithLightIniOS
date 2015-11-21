@@ -536,5 +536,8 @@ Run the project. You should now see a 3D model with a texture and light shining 
 
 
 ###Credits
+[Harold Serrano](http://www.haroldserrano.com) Author of this repository and post
 
-###Questions?
+###Questions
+If you have any questions about this repository, feel free to contact me at http://www.haroldserrano.com/contact/
+
